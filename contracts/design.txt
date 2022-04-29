@@ -8,3 +8,15 @@ function:
 Security:
 1. Checking of the Voters address if registered
 2. Checking the no multiple vote casting
+
+# e-voting-blockchain
+A smart contract based voting system.
+
+## Packages Used and Technology Used
+- **Ethereum**:
+- **Solidity**:
+- **truffle/hdwallet-provider**: HD Wallet-enabled Web3 provider.
+- **ganache-cli**: A tool for creating a local blockchain for fast Ethereum development.
+- **mocha**: Simple, flexible, fun test framework.
+- **solc**: Solidity compiler.
+- **web3**: Ethereum JavaScript API
